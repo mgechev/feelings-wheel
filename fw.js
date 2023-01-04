@@ -108,7 +108,7 @@ const data = {
           name: "Frustrated",
           children: [
             {
-              name: "Influriated",
+              name: "Infuriated",
             },
             {
               name: "Annoyed",
